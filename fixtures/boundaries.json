@@ -1,0 +1,34 @@
+[
+  {
+    "id": "B-1",
+    "grid": "G1",
+    "version": "old",
+    "valid_from": "2025-01-01",
+    "valid_to": "2026-04-01",
+    "areas": "A1;A2"
+  },
+  {
+    "id": "B-2",
+    "grid": "G2",
+    "version": "old",
+    "valid_from": "2025-01-01",
+    "valid_to": "2026-04-01",
+    "areas": "A3;A4"
+  },
+  {
+    "id": "B-3",
+    "grid": "G1",
+    "version": "new",
+    "valid_from": "2026-04-01",
+    "valid_to": "",
+    "areas": "A1"
+  },
+  {
+    "id": "B-4",
+    "grid": "G3",
+    "version": "new",
+    "valid_from": "2026-04-01",
+    "valid_to": "",
+    "areas": "A2;A3;A4"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "area": "A1",
+    "period": "2026-Q1",
+    "count": 410,
+    "source_version": "p1"
+  },
+  {
+    "area": "A2",
+    "period": "2026-Q1",
+    "count": 260,
+    "source_version": "p1"
+  },
+  {
+    "area": "A3",
+    "period": "2026-Q1",
+    "count": 330,
+    "source_version": "p1"
+  },
+  {
+    "area": "A4",
+    "period": "2026-Q1",
+    "count": "",
+    "source_version": "p1"
+  },
+  {
+    "area": "A4",
+    "period": "2026-Q2",
+    "count": 120,
+    "source_version": "p2"
+  }
+]

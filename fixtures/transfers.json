@@ -1,0 +1,18 @@
+[
+  {
+    "id": "H-1",
+    "area": "A2",
+    "from_grid": "G1",
+    "to_grid": "G3",
+    "effective_at": "2026-04-01",
+    "accepted": "yes"
+  },
+  {
+    "id": "H-2",
+    "area": "A3",
+    "from_grid": "G2",
+    "to_grid": "G3",
+    "effective_at": "2026-04-01",
+    "accepted": "pending"
+  }
+]
